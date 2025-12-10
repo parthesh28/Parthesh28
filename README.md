@@ -1,8 +1,8 @@
 <samp>
     <h2>i can love anything if i spend enough time with it</h2>
     <h3>things i work with:</h3>
-    <code>anchor</code> <code>react-native</code> <code>hono</code> <code>TypeScript</code> <code>Java</code> <code>Rust</code>
-    <h3>Weekly activity:</h3>
+     <code>typeScript</code> <code>java</code> <code>rust</code>
+    <h3>this week on keyboard: </h3>
 <!--START_SECTION:waka-->
 
 ```txt
